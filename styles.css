@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.course-list, .career-list {
+    margin: 20px 0;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 15px;
+    background-color: #007bff;
+    color: #fff;
+    margin: 10px 0;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+li:hover {
+    background-color: #0056b3;
+}
+
+.career-list h2 {
+    margin-top: 0;
+}
+
+.career-list ul {
+    padding-left: 0;
+    text-align: left;
+}
+
+.career-list li {
+    background-color: #6c757d;
+    color: #fff;
+}
