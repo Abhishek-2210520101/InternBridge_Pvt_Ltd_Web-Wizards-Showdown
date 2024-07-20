@@ -7,17 +7,17 @@ Please go through the attached presentation for a better understanding.
 
 <h2>## Features</h2>
 <p><ul>
-<li>- List of intermediate courses available in India.</li>
-<li>- Career options and specializations for each course.</li>
-<li>- User-friendly design.</li>
+<li> List of intermediate courses available in India.</li>
+<li> Career options and specializations for each course.</li>
+<li> User-friendly design.</li>
 </ul>
 </p>
 <h2>## Technologies Used</h2>
 <p><ul>
-<li>- React</li>
-<li>- HTML</li>
-<li>- CSS</li>
-<li>- JavaScript</li>
+<li> React</li>
+<li> HTML</li>
+<li> CSS</li>
+<li> JavaScript</li>
 </ul>
-<footer>By Abhishek Turamalla</footer>
+<h4>By Abhishek Turamalla</h4>
 </p>
